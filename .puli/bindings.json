@@ -1,0 +1,15 @@
+{
+    "keysByTypeName": {
+        "Http\\Client\\Common\\PluginClientFactoryInterface": 0
+    },
+    "keysByUuid": {
+        "af781c69-3348-4a17-9224-eba8e65a99d8": 0
+    },
+    "typesByKey": [
+        "O:35:\"Puli\\Discovery\\Api\\Type\\BindingType\":3:{s:41:\"\u0000Puli\\Discovery\\Api\\Type\\BindingType\u0000name\";s:47:\"Http\\Client\\Common\\PluginClientFactoryInterface\";s:47:\"\u0000Puli\\Discovery\\Api\\Type\\BindingType\u0000parameters\";a:0:{}s:53:\"\u0000Puli\\Discovery\\Api\\Type\\BindingType\u0000acceptedBindings\";a:0:{}}"
+    ],
+    "bindingsByKey": [
+        "a:1:{i:0;C:35:\"Puli\\Discovery\\Binding\\ClassBinding\":173:{a:4:{i:0;s:47:\"Http\\Client\\Common\\PluginClientFactoryInterface\";i:1;a:0:{}i:2;s:36:\"af781c69-3348-4a17-9224-eba8e65a99d8\";i:3;s:38:\"Http\\Client\\Common\\PluginClientFactory\";}}}"
+    ],
+    "nextKey": 1
+}

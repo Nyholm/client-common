@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "bindings": {
+        "af781c69-3348-4a17-9224-eba8e65a99d8": {
+            "_class": "Puli\\Discovery\\Binding\\ClassBinding",
+            "class": "Http\\Client\\Common\\PluginClientFactory",
+            "type": "Http\\Client\\Common\\PluginClientFactoryInterface"
+        }
+    },
+    "binding-types": {
+        "Http\\Client\\Common\\PluginClientFactoryInterface": {}
+    }
+}
